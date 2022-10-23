@@ -32,10 +32,10 @@ global.APIKeys = {
 
 // Other
 global.owner = ['6288229683561']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.ownernomer = "6288229683561"
+global.premium = ['6288229683561']
+global.packname = 'Sticker By Zenitsu-Botz'
+global.author = 'AmmarDev'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -62,14 +62,12 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
-global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
-global.mygc = "https://chat.whatsapp.com/Khpnk6svwIhCIvx91Xi0Vf"
-global.botname = 'Naze Dev'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE'
-
+global.mygit = 'https://github.com/AmmarrBN'
+global.myyt = '-'
+global.myytv = '-'
+global.mygc = "-"
+global.botname = 'Zenitsu-Botz'
+global.akulaku = 'Bot By AmmarBN'
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
