@@ -60,7 +60,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 25
 }
-global.thumb = fs.readFileSync('./media/image/naze.jpg')
+global.thumb = fs.readFileSync('./media/image/naze.png')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 global.mygit = 'https://github.com/AmmarrBN'
 global.myyt = '-'
